@@ -1,1 +1,1 @@
-This is a simply multi signature wallet code
+This is a simplified multi signature wallet code
